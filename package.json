@@ -1,7 +1,7 @@
 {
   "name": "yarff",
-  "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "version": "0.0.1",
+  "description": "Yet Another React Form(ik) Framework: create complex forms via json",
   "author": "5arias",
   "license": "MIT",
   "repository": "5arias/yarff",
