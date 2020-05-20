@@ -1,6 +1,6 @@
-# yarff
+# yarff - Yet Another React Form(ik) Framework
 
-> Made with create-react-library
+> Create complex forms via json
 
 [![NPM](https://img.shields.io/npm/v/yarff.svg)](https://www.npmjs.com/package/yarff) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
